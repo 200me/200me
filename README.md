@@ -1,6 +1,7 @@
 ### About Me
 
 + 👋 안녕하세요. 이지훈 입니다.
++ 📧 mail : 200me@naver.com
 + 🌱 깃허브, 백준 문제 풀이 등 꾸준히 공부하고 있는 초보 개발자입니다.
 + 💻 사용 가능 언어 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-orange)
